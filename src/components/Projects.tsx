@@ -33,7 +33,7 @@ const Projects = ({ isEnglish }: ProjectsProps) => {
         ? "Institutional management system that modernizes administrative processes, including document management, internal communications and project tracking."
         : "Sistema de gestión institucional que moderniza procesos administrativos, incluyendo gestión documental, comunicaciones internas y seguimiento de proyectos.",
       icon: Building,
-      image: "/img/d5216ee5-be50-484c-b0a2-55c041d44914.png",
+      image: "/img/67a5e77e-bfec-4ff5-ada6-bc6b1e848b64.png",
       demoUrl: "#",
       downloadUrl: "#"
     }
