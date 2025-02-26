@@ -46,7 +46,7 @@ const Hero = ({ isEnglish }: HeroProps) => {
         </div>
         <div className="glass-card p-4 smooth-fade flex items-center justify-center" style={{animationDelay: "0.2s"}}>
           <img 
-            src="/lovable-uploads/c15c827c-da80-408f-b0db-8adc7c65c3c0.png"
+            src="/img/c15c827c-da80-408f-b0db-8adc7c65c3c0.png"
             alt="Orlando" 
             className="w-full h-[350px] object-contain rounded-lg"
           />

@@ -49,10 +49,10 @@ const About = ({ isEnglish }: AboutProps) => {
           </div>
         </div>
         <div className="grid grid-cols-2 gap-4">
-          <img src="/lovable-uploads/0298649d-ec32-419d-b792-112f7f51fec7.png" alt="About 1" className="w-full h-48 object-cover rounded-lg glass-card" />
-          <img src="/lovable-uploads/3385f62d-9d2a-418b-91d1-f748e15aa478.png" alt="About 2" className="w-full h-48 object-cover rounded-lg glass-card" />
-          <img src="/lovable-uploads/44f0a476-a20e-4ddf-9244-a721d4e37c3c.png" alt="About 3" className="w-full h-48 object-cover rounded-lg glass-card" />
-          <img src="/lovable-uploads/18959a11-cc06-40e1-a7e7-2b3c668b61fe.png" alt="About 4" className="w-full h-48 object-cover rounded-lg glass-card" />
+          <img src="/img/0298649d-ec32-419d-b792-112f7f51fec7.png" alt="About 1" className="w-full h-48 object-cover rounded-lg glass-card" />
+          <img src="/img/3385f62d-9d2a-418b-91d1-f748e15aa478.png" alt="About 2" className="w-full h-48 object-cover rounded-lg glass-card" />
+          <img src="/img/44f0a476-a20e-4ddf-9244-a721d4e37c3c.png" alt="About 3" className="w-full h-48 object-cover rounded-lg glass-card" />
+          <img src="/img/18959a11-cc06-40e1-a7e7-2b3c668b61fe.png" alt="About 4" className="w-full h-48 object-cover rounded-lg glass-card" />
         </div>
       </div>
     </section>

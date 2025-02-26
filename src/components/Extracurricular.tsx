@@ -25,7 +25,7 @@ const Extracurricular = ({ isEnglish }: ExtracurricularProps) => {
             "Entrenamiento en Jiu-jitsu",
             "Experiencia en Boxeo"
           ],
-      image: "/lovable-uploads/7a31e718-1895-437f-9b5c-510334198737.png"
+      image: "/img/7a31e718-1895-437f-9b5c-510334198737.png"
     },
     {
       icon: Dumbbell,
@@ -46,7 +46,7 @@ const Extracurricular = ({ isEnglish }: ExtracurricularProps) => {
             "Experiencia en organización de eventos",
             "Asesoramiento técnico a otros atletas"
           ],
-      image: "/lovable-uploads/a7018630-1e06-4c53-82e1-d2ed416cd3f4.png"
+      image: "/img/a7018630-1e06-4c53-82e1-d2ed416cd3f4.png"
     },
     {
       icon: Tent,
@@ -67,7 +67,7 @@ const Extracurricular = ({ isEnglish }: ExtracurricularProps) => {
             "Participación en eventos internacionales",
             "Mentor de nuevas generaciones"
           ],
-      image: "/lovable-uploads/a46edb24-b081-4953-99a1-a526e9a0610a.png"
+      image: "/img/a46edb24-b081-4953-99a1-a526e9a0610a.png"
     },
     {
       icon: Music,
@@ -88,7 +88,7 @@ const Extracurricular = ({ isEnglish }: ExtracurricularProps) => {
             "Presentaciones en eventos",
             "Formación musical continua"
           ],
-      image: "/lovable-uploads/3385f62d-9d2a-418b-91d1-f748e15aa478.png"
+      image: "/img/3385f62d-9d2a-418b-91d1-f748e15aa478.png"
     }
   ];
 

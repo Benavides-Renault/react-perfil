@@ -83,7 +83,7 @@ const Header = ({ initialLanguage }: HeaderProps) => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img 
-              src="/lovable-uploads/logo.png" 
+              src="/img/logo.png" 
               alt="Logo" 
               className="w-10 h-10 rounded-xl object-cover skills-icon hover:scale-110 transition-transform"
             />
